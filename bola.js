@@ -8,8 +8,8 @@ let year = today.getFullYear();
 let date = today.getDate();
 
 let recent_date = `${month}/${date}/${year}`;
-// output.innerText= recent_date;
-
+output.innerText= recent_date;
+console.log(recent_date)
 
 
 
